@@ -4,7 +4,7 @@ bttan@ucsd.edu
 
 This document presents the numerous projects that I have developed for Eternal Towers of Hell from 2020 to 2025. Please note that if you wish to test any of these projects, you must install ROBLOX and be logged into an account. Otherwise, you can still view each project on YouTube with the video links provided.
 
-## Tower of Mechanical Physics (2023-2025)
+## Tower of Mechanical Physics (2023-Ongoing)
 [Play Project](https://www.roblox.com/games/17004361863/Tower-of-Mechanical-Physics)<br>
 
 <p align="center">
