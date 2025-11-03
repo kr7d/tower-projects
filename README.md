@@ -17,21 +17,27 @@ This document presents the numerous projects that I have developed for Eternal T
 [Project](https://www.roblox.com/games/8020574527/Tower-of-Quaint-Activations)
 [Video](https://www.youtube.com/watch?v=dokHEMYhc_E)
 
-![ToQA Frame](images/ToQA_Frame.png)
-![ToQA Top](images/ToQA_Top.png)
-![ToQA Inside](images/ToQA_Inside.png)
+<p align="center">
+  <img src="images/ToQA_Frame.png" alt="ToQA Frame"/>
+  <img src="images/ToQA_Top.png" alt="ToQA Top">
+  <img src="images/ToQA_Inside.png" alt="ToQA Inside">
+</p>
 
 ## Tower of Brief Challenges (2021-2021)
 [Project](https://www.roblox.com/games/6347821389/Tower-of-Brief-Challenges)
 [Video](https://www.youtube.com/watch?v=I8l_BfnJ1yQ)
 
-![ToBC Frame](images/ToBC_Frame.png)
-![ToBC Top](images/ToBC_Top.png)
-![ToBC Inside](images/ToBC_Inside.png)
+<p align="center">
+  <img src="images/ToBC_Frame.png" alt="ToBC Frame"/>
+  <img src="images/ToBC_Top.png" alt="ToBC Top">
+  <img src="images/ToBC_Inside.png" alt="ToBC Inside">
+</p>
 
 ## Tower of Ubiquitous Challenges (2020-2021)
 [Project](https://www.roblox.com/games/6083674493/Tower-of-Ubiquitous-Challenges)
 
-![ToUC Frame](images/ToUC_Frame.png)
-![ToUC Top](images/ToUC_Top.png)
-![ToUC Inside](images/ToUC_Inside.png)
+<p align="center">
+  <img src="images/ToUC_Frame.png" alt="ToUC Frame"/>
+  <img src="images/ToUC_Top.png" alt="ToUC Top">
+  <img src="images/ToUC_Inside.png" alt="ToUC Inside">
+</p>
