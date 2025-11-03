@@ -36,6 +36,7 @@ This document presents the numerous projects that I have developed for Eternal T
 </p>
 
 ## Tower of Ubiquitous Challenges (2020-2021)
+[View Wiki](https://etoh-misc.fandom.com/wiki/Tower_of_Ubiquitous_Challenges)<br>
 [Play Project](https://www.roblox.com/games/6083674493/Tower-of-Ubiquitous-Challenges)<br>
 [Watch Video](https://www.youtube.com/watch?v=uP8LhtZ-X4c)
 
