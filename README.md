@@ -10,7 +10,7 @@ This document presents the numerous projects that I have developed for Eternal T
 <p align="center">
   <img src="images/ToMP_Frame.png" alt="ToMP Frame"/>
   <img src="images/ToMP_Top.png" alt="ToMP Top">
-  <img src="images/ToMP_Inside.png" alt="ToMP Inside>
+  <img src="images/ToMP_Inside.png" alt="ToMP Inside">
 </p>
 
 ## Tower of Quaint Activations (2021-2022)
