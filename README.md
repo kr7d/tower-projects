@@ -14,7 +14,8 @@ This document presents the numerous projects that I have developed for Eternal T
 </p>
 
 ## Tower of Quaint Activations (2021-2022)
-[View Project](https://www.roblox.com/games/8020574527/Tower-of-Quaint-Activations)<br>
+[Wiki](https://jtoh.fandom.com/wiki/Tower_of_Quaint_Activations)<br>
+[Play Project](https://www.roblox.com/games/8020574527/Tower-of-Quaint-Activations)<br>
 [Watch Video](https://www.youtube.com/watch?v=dokHEMYhc_E)
 
 <p align="center">
@@ -24,7 +25,8 @@ This document presents the numerous projects that I have developed for Eternal T
 </p>
 
 ## Tower of Brief Challenges (2021-2021)
-[View Project](https://www.roblox.com/games/6347821389/Tower-of-Brief-Challenges)<br>
+[Wiki](https://jtoh.fandom.com/wiki/Tower_of_Brief_Challenges)<br>
+[Play Project](https://www.roblox.com/games/6347821389/Tower-of-Brief-Challenges)<br>
 [Watch Video](https://www.youtube.com/watch?v=I8l_BfnJ1yQ)
 
 <p align="center">
