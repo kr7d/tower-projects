@@ -7,7 +7,9 @@ This document presents the numerous projects that I have developed for Eternal T
 ## Tower of Mechanical Physics (2023-2025)
 [Project](https://www.roblox.com/games/17004361863/Tower-of-Mechanical-Physics)
 
-<img style="float: right;" src="images/ToMP_Frame.png">
+<p align="center">
+  <img src="images/ToMP_Frame.png" alt="ToMP Frame"/>
+</p>
 
 ## Tower of Quaint Activations (2021-2022)
 [Project](https://www.roblox.com/games/8020574527/Tower-of-Quaint-Activations)
