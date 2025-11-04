@@ -2,7 +2,7 @@
 Brandon Tan<br>
 bttan@ucsd.edu
 
-This document presents the numerous projects that I have developed for [Eternal Towers of Hell](https://jtoh.fandom.com/wiki/Eternal_Towers_of_Hell_(Game)) from 2020 to 2025. Please note that if you wish to test any of these projects, you must install ROBLOX and be logged into an account. Otherwise, you can still view each project on YouTube with the video links provided.
+This repository presents the numerous projects that I have developed for [Eternal Towers of Hell](https://jtoh.fandom.com/wiki/Eternal_Towers_of_Hell_(Game)) from 2020 to 2025. Please note that if you wish to test any of these projects, you must install ROBLOX and be logged into an account. Otherwise, you can still view each project on YouTube with the video links provided.
 
 Note: The range next to each tower heading indicates the start and end years of each tower's development.
 
