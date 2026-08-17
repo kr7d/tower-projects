@@ -36,9 +36,9 @@ Each entry below includes links to play the tower in-game, view its wiki page, a
 🔗 [Play Project](https://www.roblox.com/games/17004361863/Tower-of-Mechanical-Physics) · 📖 [View Wiki](https://etoh-misc.fandom.com/wiki/Tower_of_Unified_Physics) · ▶️ [Watch Video](https://www.youtube.com/watch?v=BecC_4m00Do)
 
 <p align="center">
-  <img src="images/ToMP_Frame.png" alt="Tower of Mechanical Physics — exterior frame" height="400"/>
-  <img src="images/ToMP_Top.png" alt="Tower of Mechanical Physics — top view" height="400"/>
-  <img src="images/ToMP_Inside.png" alt="Tower of Mechanical Physics — interior" height="400"/>
+  <img src="images/ToMP_Frame.png" alt="Tower of Mechanical Physics — exterior frame" height="300"/>
+  <img src="images/ToMP_Top.png" alt="Tower of Mechanical Physics — top view" height="300"/>
+  <img src="images/ToMP_Inside.png" alt="Tower of Mechanical Physics — interior" height="300"/>
 </p>
 
 ---
