@@ -20,25 +20,25 @@ This repository showcases the towers I have designed and built for [**Eternal To
 
 Each entry below includes links to play the tower in-game, view its wiki page, and watch a video playthrough. Playing a project requires a [ROBLOX](https://www.roblox.com/) account and client installed; if you'd rather not install anything, the YouTube links let you watch a full playthrough instead.
 
-> The year range beside each title marks that tower's development period, from initial concept to release ("Ongoing" indicates active development).
+> The year range beside each title marks that tower's development period, from initial concept to release.
 
 ## Contents
 
-- [Tower of Mechanical Physics](#tower-of-mechanical-physics-2023--ongoing) *(2023–Ongoing)*
+- [Tower of Mechanical Physics](#tower-of-mechanical-physics-2023--ongoing) *(2023–2026)*
 - [Tower of Quaint Activations](#tower-of-quaint-activations-2021--2022) *(2021–2022)*
 - [Tower of Brief Challenges](#tower-of-brief-challenges-2021) *(2021)*
 - [Tower of Ubiquitous Challenges](#tower-of-ubiquitous-challenges-2020--2021) *(2020–2021)*
 
 ---
 
-## Tower of Mechanical Physics (2023 – Ongoing)
+## Tower of Mechanical Physics (2023 – 2026)
 
-🔗 [Play Project](https://www.roblox.com/games/17004361863/Tower-of-Mechanical-Physics)
+🔗 [Play Project](https://www.roblox.com/games/17004361863/Tower-of-Mechanical-Physics) · 📖 [View Wiki]([https://jtoh.fandom.com/wiki/Tower_of_Quaint_Activations](https://etoh-misc.fandom.com/wiki/Tower_of_Unified_Physics)) · ▶️ [Watch Video](https://www.youtube.com/watch?v=BecC_4m00Do)
 
 <p align="center">
-  <img src="images/ToMP_Frame.png" alt="Tower of Mechanical Physics — exterior frame" width="30%"/>
-  <img src="images/ToMP_Top.png" alt="Tower of Mechanical Physics — top view" width="30%"/>
-  <img src="images/ToMP_Inside.png" alt="Tower of Mechanical Physics — interior" width="30%"/>
+  <img src="images/ToMP_Frame.png" alt="Tower of Mechanical Physics — exterior frame" height="300"/>
+  <img src="images/ToMP_Top.png" alt="Tower of Mechanical Physics — top view" height="300"/>
+  <img src="images/ToMP_Inside.png" alt="Tower of Mechanical Physics — interior" height="300"/>
 </p>
 
 ---
@@ -48,9 +48,9 @@ Each entry below includes links to play the tower in-game, view its wiki page, a
 🔗 [Play Project](https://www.roblox.com/games/8020574527/Tower-of-Quaint-Activations) · 📖 [View Wiki](https://jtoh.fandom.com/wiki/Tower_of_Quaint_Activations) · ▶️ [Watch Video](https://www.youtube.com/watch?v=dokHEMYhc_E)
 
 <p align="center">
-  <img src="images/ToQA_Frame.png" alt="Tower of Quaint Activations — exterior frame" width="30%"/>
-  <img src="images/ToQA_Top.png" alt="Tower of Quaint Activations — top view" width="30%"/>
-  <img src="images/ToQA_Inside.png" alt="Tower of Quaint Activations — interior" width="30%"/>
+  <img src="images/ToQA_Frame.png" alt="Tower of Quaint Activations — exterior frame" height="300"/>
+  <img src="images/ToQA_Top.png" alt="Tower of Quaint Activations — top view" height="300"/>
+  <img src="images/ToQA_Inside.png" alt="Tower of Quaint Activations — interior" height="300"/>
 </p>
 
 ---
@@ -60,9 +60,9 @@ Each entry below includes links to play the tower in-game, view its wiki page, a
 🔗 [Play Project](https://www.roblox.com/games/6347821389/Tower-of-Brief-Challenges) · 📖 [View Wiki](https://jtoh.fandom.com/wiki/Tower_of_Brief_Challenges) · ▶️ [Watch Video](https://www.youtube.com/watch?v=I8l_BfnJ1yQ)
 
 <p align="center">
-  <img src="images/ToBC_Frame.png" alt="Tower of Brief Challenges — exterior frame" width="30%"/>
-  <img src="images/ToBC_Top.png" alt="Tower of Brief Challenges — top view" width="30%"/>
-  <img src="images/ToBC_Inside.png" alt="Tower of Brief Challenges — interior" width="30%"/>
+  <img src="images/ToBC_Frame.png" alt="Tower of Brief Challenges — exterior frame" height="300"/>
+  <img src="images/ToBC_Top.png" alt="Tower of Brief Challenges — top view" height="300"/>
+  <img src="images/ToBC_Inside.png" alt="Tower of Brief Challenges — interior" height="300"/>
 </p>
 
 ---
@@ -72,9 +72,9 @@ Each entry below includes links to play the tower in-game, view its wiki page, a
 🔗 [Play Project](https://www.roblox.com/games/6083674493/Tower-of-Ubiquitous-Challenges) · 📖 [View Wiki](https://etoh-misc.fandom.com/wiki/Tower_of_Ubiquitous_Challenges) · ▶️ [Watch Video](https://www.youtube.com/watch?v=uP8LhtZ-X4c)
 
 <p align="center">
-  <img src="images/ToUC_Frame.png" alt="Tower of Ubiquitous Challenges — exterior frame" width="30%"/>
-  <img src="images/ToUC_Top.png" alt="Tower of Ubiquitous Challenges — top view" width="30%"/>
-  <img src="images/ToUC_Inside.png" alt="Tower of Ubiquitous Challenges — interior" width="30%"/>
+  <img src="images/ToUC_Frame.png" alt="Tower of Ubiquitous Challenges — exterior frame" height="300"/>
+  <img src="images/ToUC_Top.png" alt="Tower of Ubiquitous Challenges — top view" height="300"/>
+  <img src="images/ToUC_Inside.png" alt="Tower of Ubiquitous Challenges — interior" height="300"/>
 </p>
 
 ---
