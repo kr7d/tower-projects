@@ -20,7 +20,7 @@ This repository showcases the towers I have designed and built for [**Eternal To
 
 Each entry below includes links to play the tower in-game, view its wiki page, and watch a video playthrough. Playing a project requires a [ROBLOX](https://www.roblox.com/) account and client installed; if you'd rather not install anything, the YouTube links let you watch a full playthrough instead.
 
-> The year range beside each title marks that tower's development period, from initial concept to release.
+> The year range beside each title marks that tower's development period.
 
 ## Contents
 
