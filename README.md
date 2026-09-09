@@ -45,7 +45,7 @@ Each entry below includes links to play the tower in-game, view its wiki page, a
 
 ## Tower of Quaint Activations (2021 – 2022)
 
-🔗 [Play Project](https://www.roblox.com/games/8020574527/Tower-of-Quaint-Activations) · 📖 [View Wiki](https://jtoh.fandom.com/wiki/Tower_of_Quaint_Activations) · ▶️ [Watch Video](https://www.youtube.com/watch?v=dokHEMYhc_E)
+🔗 [Play Project](https://www.roblox.com/games/8020574527/Tower-of-Quaint-Activations) · 📖 [View Wiki](https://jtoh.fandom.com/wiki/Tower_of_Quaint_Activations) · ▶️ [Watch Video](https://www.youtube.com/watch?v=5p4fIJ3jEx8)
 
 <p align="center">
   <img src="images/ToQA_Frame.png" alt="Tower of Quaint Activations — exterior frame" height="300"/>
@@ -57,7 +57,7 @@ Each entry below includes links to play the tower in-game, view its wiki page, a
 
 ## Tower of Brief Challenges (2021)
 
-🔗 [Play Project](https://www.roblox.com/games/6347821389/Tower-of-Brief-Challenges) · 📖 [View Wiki](https://jtoh.fandom.com/wiki/Tower_of_Brief_Challenges) · ▶️ [Watch Video](https://www.youtube.com/watch?v=I8l_BfnJ1yQ)
+🔗 [Play Project](https://www.roblox.com/games/6347821389/Tower-of-Brief-Challenges) · 📖 [View Wiki](https://jtoh.fandom.com/wiki/Tower_of_Brief_Challenges) · ▶️ [Watch Video](https://www.youtube.com/watch?v=DSa2NGqrcCc)
 
 <p align="center">
   <img src="images/ToBC_Frame.png" alt="Tower of Brief Challenges — exterior frame" height="300"/>
