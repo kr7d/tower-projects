@@ -5,10 +5,6 @@
 **A collection of obby towers built for *Eternal Towers of Hell*, 2020–2026**
 
 [![Roblox](https://img.shields.io/badge/Platform-ROBLOX-red?logo=roblox&logoColor=white)](https://www.roblox.com/)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
-[![Contact](https://img.shields.io/badge/Contact-brandon.tj.tan%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:brandon.tj.tan@gmail.com)
-
-**Brandon Tan**
 
 </div>
 
@@ -78,9 +74,3 @@ Each entry below includes links to play the tower in-game, view its wiki page, a
 </p>
 
 ---
-
-<div align="center">
-
-**Contact:** [brandon.tj.tan@gmail.com](mailto:brandon.tj.tan@gmail.com)
-
-</div>
